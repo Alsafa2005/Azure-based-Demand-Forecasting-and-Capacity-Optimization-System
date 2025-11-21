@@ -20,7 +20,7 @@ This project demonstrates a complete end-to-end Data Engineering pipeline starti
 
 Each file was intentionally stored on different cloud platforms to simulate real-world heterogeneous data sources.
 
-
+These files are also present in this git repository in .zip format
 ---
 
 🚀 Data Ingestion
@@ -29,9 +29,9 @@ Each file was intentionally stored on different cloud platforms to simulate real
 
 DataCoSupplyChainDataset.csv → Uploaded to AWS S3 Bucket
 
-TokenizedAccessLogs.csv → Stored in Snowflake
+Tokenized_access_logs.csv → Stored in Snowflake
 
-Description.csv → Exposed through a custom-built API endpoint
+DescriptionDataCoSupplyChainDataset.csv → Exposed through a custom-built API endpoint
 
 
 This setup represents modern enterprise data scenarios where data is scattered across multiple systems.
