@@ -1,7 +1,7 @@
 # INFOSYS INTERNSHIP 6.0 
 This is project file of Azure based Demand Forecasting and Capacity Optimization System of Infosys Springboard 6.0 Internship
 
-ARCHITECTURE:-
+ARCHITECTURE :-
 
 ![Image](https://github.com/user-attachments/assets/8f37ae26-36ba-47d0-bf93-8578bdf0d079)
 
