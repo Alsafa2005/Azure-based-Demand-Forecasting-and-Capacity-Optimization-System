@@ -27,6 +27,8 @@ These diverse sources create a rich dataset combining internal and external dema
 
 <img width="1000" height="342" alt="image" src="https://github.com/user-attachments/assets/6e947ad8-d2bb-4d07-bed2-3da01e5ff3e1" />
 
+---
+
 *2. Data Ingestion Layer*
    
 All incoming data is ingested through:
@@ -43,6 +45,7 @@ This ensures scalable, fault-tolerant data handling capable of growing with Azur
 
 <img width="1000" height="342" alt="image" src="https://github.com/user-attachments/assets/adca9e84-ada0-4c1e-a29d-d2a84924e34e" />
 
+---
 
 *3. Data Processing Layer (Azure Databricks)*
 
@@ -64,6 +67,8 @@ Azure Databricks is the core data processing and ML environment in this architec
 This multi-layered Lakehouse approach ensures clean, high-quality, reliable input for modeling.
 
 <img width="600" height="442" alt="image" src="https://github.com/user-attachments/assets/ef219e2b-e8fe-44e7-abfb-7310815ae837" />
+
+---
 
 *4. Machine Learning Model Training*
 
@@ -89,6 +94,8 @@ The final outputs include:
 + Weekly and monthly trend insights
 + Model performance metrics (MAE, RMSE, SMAPE)
 
+---
+
 *5. Visualization Layer (Power BI)*
 
 The final forecasts and performance metrics are published to Power BI, enabling:
@@ -109,11 +116,12 @@ POWER BI DASHBOARD IMAGES:-
 ![Image](https://github.com/user-attachments/assets/346530a0-2061-40b3-9874-9e5f2a33668b)
 
 
+The dashboard is visible in this link: [https://app.powerbi.com/view?r=eyJrIjoiOGYxYTA5NWMtZTg3NC00Nzk4LThjZjMtNDVlMmE2OTc1ZmI2IiwidCI6IjE1YzM0OWUxLTBjNTUtNDYwOS1iMzNhLWM2MjJkOWU2NjRlYSJ9](https://app.powerbi.com/view?r=eyJrIjoiOGRhOTVmZDItNThhZC00MWJmLTkxNzUtYWVkYTZkNGM4NzRkIiwidCI6IjI5MTk2MTM0LTRiNzktNDY1NS1hYTZjLTAyNTc2MzQ5NGI2NCJ9)
 
-The dashboard is visible in this link: https://app.powerbi.com/view?r=eyJrIjoiOGYxYTA5NWMtZTg3NC00Nzk4LThjZjMtNDVlMmE2OTc1ZmI2IiwidCI6IjE1YzM0OWUxLTBjNTUtNDYwOS1iMzNhLWM2MjJkOWU2NjRlYSJ9
+---
 
 *Summary* 
 
-This project delivers an integrated cloud-based forecasting system that ingests multi-cloud data from Snowflake, GCP, and API sources into Azure storage via ADF, processes it through a Databricks Lakehouse (Bronze-Silver-Gold layers), trains multiple ML models to predict Azure Compute & Storage demand, and visualizes the insights in Power BI.
+This project delivers an integrated cloud-based forecasting system that ingests multi-cloud data from Snowflake, GCP or AWS, and API sources into Azure storage via ADF, processes it through a Databricks Lakehouse (Bronze-Silver-Gold layers), trains multiple ML models to predict Azure Compute & Storage demand, and visualizes the insights in Power BI.
 Random Forest delivered the best forecast accuracy (97.69%), enabling Azure to optimize capacity planning and reduce infrastructure cost inefficiencies.
 
