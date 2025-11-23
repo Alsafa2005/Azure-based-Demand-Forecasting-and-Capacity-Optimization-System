@@ -1,3 +1,27 @@
+ARCHITECTURE :-
+
+![Image](https://github.com/user-attachments/assets/8f37ae26-36ba-47d0-bf93-8578bdf0d079)
+
+---
+
+DEMO VIDEO:-
+
+https://github.com/user-attachments/assets/0fe06bcf-cd8a-4c52-bcfd-c5dc21b9b72f
+
+---
+
+POWER BI IMAGES:-
+
+![Image](https://github.com/user-attachments/assets/09cb024b-2b05-4cc6-8146-428d412b3c30)
+
+![Image](https://github.com/user-attachments/assets/f3657f8b-206f-4c13-bc6b-0884e4603a0a)
+
+![Image](https://github.com/user-attachments/assets/38521f0d-42db-4fe3-aa97-e54bec481f91)
+
+![Image](https://github.com/user-attachments/assets/346530a0-2061-40b3-9874-9e5f2a33668b)
+
+---
+
 # INFOSYS INTERNSHIP 6.0 
 This is project file of Azure based Demand Forecasting and Capacity Optimization System of Infosys Springboard 6.0 Internship
 
