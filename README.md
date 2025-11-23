@@ -1,14 +1,16 @@
-ARCHITECTURE :-
+PROJECT ARCHITECTURE :-
 
 ![Image](https://github.com/user-attachments/assets/8f37ae26-36ba-47d0-bf93-8578bdf0d079)
 
 ---
+
 
 DEMO VIDEO:-
 
 https://github.com/user-attachments/assets/0fe06bcf-cd8a-4c52-bcfd-c5dc21b9b72f
 
 ---
+
 
 POWER BI IMAGES:-
 
@@ -24,10 +26,6 @@ POWER BI IMAGES:-
 
 # INFOSYS INTERNSHIP 6.0 
 This is project file of Azure based Demand Forecasting and Capacity Optimization System of Infosys Springboard 6.0 Internship
-
-ARCHITECTURE :-
-
-![Image](https://github.com/user-attachments/assets/8f37ae26-36ba-47d0-bf93-8578bdf0d079)
 
 ---
 
