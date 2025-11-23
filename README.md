@@ -7,7 +7,7 @@ ARCHITECTURE :-
 
 ---
 
-📌 Project Architecture Overview
+📌 Project Architecture Overview 
 
 This project implements a complete end-to-end data engineering and analytics pipeline using multiple cloud platforms and Azure services. The architecture integrates diverse data sources, performs ingestion, storage, processing, machine learning, and visualization through a scalable and automated workflow.
 
