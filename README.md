@@ -20,7 +20,7 @@ The pipeline collects data from three major sources:
 
 Snowflake Database – Structured data extracted from Snowflake table.
 
-AWS S3 – Raw or semi-structured file (csv) stored in Amazon S3 bucket.
+GCP or AWS S3 – Raw or semi-structured file (csv) stored.
 
 Render API – REST API–based data ingestion from the Render-hosted application.
 
@@ -34,7 +34,7 @@ These sources act as the primary data inputs for processing in Azure.
 
 Azure Data Factory (ADF) orchestrates the end-to-end ingestion pipeline:
 
-Connects to Snowflake, AWS S3, and Render API using dedicated connectors.
+Connects to Snowflake, GCP or AWS S3, and Render API using dedicated connectors.
 
 Pulls data on scheduled, triggered, or event-driven processes.
 
