@@ -7,6 +7,12 @@ ARCHITECTURE :-
 
 ---
 
+## 📊 Power BI Dashboard
+
+[👉 Click here to open the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGRhOTVmZDItNThhZC00MWJmLTkxNzUtYWVkYTZkNGM4NzRkIiwidCI6IjI5MTk2MTM0LTRiNzktNDY1NS1hYTZjLTAyNTc2MzQ5NGI2NCJ9)(https://app.powerbi.com/view?r=eyJrIjoiOGRhOTVmZDItNThhZC00MWJmLTkxNzUtYWVkYTZkNGM4NzRkIiwidCI6IjI5MTk2MTM0LTRiNzktNDY1NS1hYTZjLTAyNTc2MzQ5NGI2NCJ9)
+
+---
+
 📌 Project Architecture Overview 
 
 This project implements a complete end-to-end data engineering and analytics pipeline using multiple cloud platforms and Azure services. The architecture integrates diverse data sources, performs ingestion, storage, processing, machine learning, and visualization through a scalable and automated workflow.
